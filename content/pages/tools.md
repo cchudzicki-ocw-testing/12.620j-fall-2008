@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides instructions for installing the Scmutils system,
+  an integrated library of procedures, embedded in the programming language Scheme,
+  and intended to support teaching and research in mathematical physics and electrical
+  engineering.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
